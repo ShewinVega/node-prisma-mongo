@@ -1,0 +1,10 @@
+
+
+
+## environment variables
+.env
+
+## Modules
+node_modules
+
+dist
